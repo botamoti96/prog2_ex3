@@ -29,7 +29,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'prog2_ex3.App'
+    mainClassName = 'prog2_ex3.App'
 }
 
 tasks.named('test') {
